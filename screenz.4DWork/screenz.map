@@ -1,0 +1,13 @@
+linked : 13    main 0114
+linked : 12    DoGFXObjects 0759
+linked : 11    UpdateObjects 075A
+linked : 10    ActivateForm 0987
+linked : 9     ledDigitsDisplay 0AE1
+linked : 8     WriteObject 0C1B
+linked : 7     ReadObject 0CA8
+linked : 6     TMul 0D2C
+linked : 5     SendReport 0D62
+linked : 4     seroutOcs 0D94
+linked : 3     nak0 0DA3
+linked : 2     seroutCS 0DB2
+linked : 1     PrintStrings 0DC4
